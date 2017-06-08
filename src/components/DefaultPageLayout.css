@@ -1,0 +1,27 @@
+.DefaultPageLayout-topBar {
+  background-color: black;
+  margin: 0;
+  padding: 0.25rem 1rem;
+}
+
+.DefaultPageLayout-topBarHeading {
+  color: white;
+  font-size: 1.0rem;
+}
+
+.DefaultPageLayout-indexPageLink {
+  text-decoration: none;
+  color: white;
+}
+
+.DefaultPageLayout-indexPageLink:hover {
+  color: pink;
+}
+
+.DefaultPageLayout-pageTitle {
+  background-color: silver;
+  color: black;
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 1rem;
+}
